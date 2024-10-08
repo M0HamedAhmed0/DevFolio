@@ -1,0 +1,409 @@
+/************** start of Animations ******************/
+
+@keyframes typing {
+    0% {
+        content: " |";
+    }
+
+    1% {
+        content: "D |";
+    }
+
+    2% {
+        content: "De |";
+    }
+
+    3% {
+        content: "Des |";
+    }
+
+    4% {
+        content: "Desi |";
+    }
+
+    5% {
+        content: "Desig |";
+    }
+
+    6% {
+        content: "Design |";
+    }
+
+    7% {
+        content: "Designe |";
+    }
+
+    8% {
+        content: "Designer |";
+    }
+
+    9% {
+        content: "Designer |";
+    }
+
+    10% {
+        content: "Designer |";
+    }
+
+    11% {
+        content: "Designe |";
+    }
+
+    12% {
+        content: "Design |";
+    }
+
+    13% {
+        content: "Desig |";
+    }
+
+    14% {
+        content: "Desi |";
+    }
+
+    15% {
+        content: "Des |";
+    }
+
+    16% {
+        content: "De |";
+    }
+
+    17% {
+        content: "De |";
+    }
+
+    18% {
+        content: "Dev |";
+    }
+
+    19% {
+        content: "Deve |";
+    }
+
+    20% {
+        content: "Devel |";
+    }
+
+    21% {
+        content: "Develo |";
+    }
+
+    22% {
+        content: "Develop |";
+    }
+
+    23% {
+        content: "Develope |";
+    }
+
+    24% {
+        content: "Developer |";
+    }
+
+    25% {
+        content: "Developer |";
+    }
+
+    26% {
+        content: "Developer |";
+    }
+
+    27% {
+        content: "Develope |";
+    }
+
+    28% {
+        content: "Develop |";
+    }
+
+    29% {
+        content: "Develo |";
+    }
+
+    30% {
+        content: "Devel |";
+    }
+
+    31% {
+        content: "Deve |";
+    }
+
+    32% {
+        content: "Dev |";
+    }
+
+    33% {
+        content: "De |";
+    }
+
+    34% {
+        content: "D |";
+    }
+
+    35% {
+        content: " |";
+    }
+
+    36% {
+        content: " |";
+    }
+
+    37% {
+        content: " |";
+    }
+
+    38% {
+        content: "F |";
+    }
+
+    39% {
+        content: "Fr |";
+    }
+
+    40% {
+        content: "Fre |";
+    }
+
+    41% {
+        content: "Free |";
+    }
+
+    42% {
+        content: "Freel |";
+    }
+
+    43% {
+        content: "Freela |";
+    }
+
+    44% {
+        content: "Freelan |";
+    }
+
+    45% {
+        content: "Freelanc |";
+    }
+
+    46% {
+        content: "Freelance |";
+    }
+
+    47% {
+        content: "Freelancer |";
+    }
+
+    48% {
+        content: "Freelancer |";
+    }
+
+    49% {
+        content: "Freelancer |";
+    }
+
+    50% {
+        content: "Freelance |";
+    }
+
+    51% {
+        content: "Freelance |";
+    }
+
+    52% {
+        content: "Freelan |";
+    }
+
+    53% {
+        content: "Freela |";
+    }
+
+    54% {
+        content: "Freel |";
+    }
+
+    55% {
+        content: "Free |";
+    }
+
+    56% {
+        content: "Fre |";
+    }
+
+    57% {
+        content: "Fr |";
+    }
+
+    58% {
+        content: "F |";
+    }
+
+    59% {
+        content: " |";
+    }
+
+    60% {
+        content: " |";
+    }
+
+    61% {
+        content: " |";
+    }
+
+    62% {
+        content: " |";
+    }
+
+    63% {
+        content: " |";
+    }
+
+    64% {
+        content: "P |";
+    }
+
+    65% {
+        content: "Ph |";
+    }
+
+    66% {
+        content: "Pho |";
+    }
+
+    67% {
+        content: "Phot |";
+    }
+
+    68% {
+        content: "Photo |";
+    }
+
+    69% {
+        content: "Photog |";
+    }
+
+    70% {
+        content: "Photogr |";
+    }
+
+    71% {
+        content: "Photogra |";
+    }
+
+    72% {
+        content: "Photograp |";
+    }
+
+    73% {
+        content: "Photograph |";
+    }
+
+    74% {
+        content: "Photographe |";
+    }
+
+    75% {
+        content: "Photographer |";
+    }
+
+    76% {
+        content: "Photographer |";
+    }
+
+    77% {
+        content: "Photographer |";
+    }
+
+    78% {
+        content: "Photographer |";
+    }
+
+    79% {
+        content: "Photographe |";
+    }
+
+    80% {
+        content: "Photograph |";
+    }
+
+    81% {
+        content: "Photograp |";
+    }
+
+    82% {
+        content: "Photogra |";
+    }
+
+    83% {
+        content: "Photogr |";
+    }
+
+    84% {
+        content: "Photog |";
+    }
+
+    85% {
+        content: "Photo |";
+    }
+
+    86% {
+        content: "Phot |";
+    }
+
+    87% {
+        content: "Pho |";
+    }
+
+    88% {
+        content: "Ph |";
+    }
+
+    89% {
+        content: "P |";
+    }
+
+    90% {
+        content: " |";
+    }
+
+    91% {
+        content: " |";
+    }
+
+    92% {
+        content: " |";
+    }
+
+    93% {
+        content: " |";
+    }
+
+    94% {
+        content: " |";
+    }
+
+    95% {
+        content: " |";
+    }
+
+    96% {
+        content: " |";
+    }
+
+    97% {
+        content: " |";
+    }
+
+    98% {
+        content: " |";
+    }
+
+    99% {
+        content: " |";
+    }
+
+    100% {
+        content: " |";
+    }
+}
+
+/************** end of Animations ******************/
